@@ -1,0 +1,12 @@
+C:\VisualStudios - NotOneDrive\Barberakji.3sem\BarberAkji\BarberAkji.Models\obj\Debug\net8.0\BarberAkji.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudios - NotOneDrive\Barberakji.3sem\BarberAkji\BarberAkji.Models\obj\Debug\net8.0\BarberAkji.Models.AssemblyInfoInputs.cache
+C:\VisualStudios - NotOneDrive\Barberakji.3sem\BarberAkji\BarberAkji.Models\obj\Debug\net8.0\BarberAkji.Models.AssemblyInfo.cs
+C:\VisualStudios - NotOneDrive\Barberakji.3sem\BarberAkji\BarberAkji.Models\obj\Debug\net8.0\BarberAkji.Models.csproj.CoreCompileInputs.cache
+C:\VisualStudios - NotOneDrive\Barberakji.3sem\BarberAkji\BarberAkji.Models\bin\Debug\net8.0\BarberAkji.Models.deps.json
+C:\VisualStudios - NotOneDrive\Barberakji.3sem\BarberAkji\BarberAkji.Models\bin\Debug\net8.0\BarberAkji.Models.dll
+C:\VisualStudios - NotOneDrive\Barberakji.3sem\BarberAkji\BarberAkji.Models\bin\Debug\net8.0\BarberAkji.Models.pdb
+C:\VisualStudios - NotOneDrive\Barberakji.3sem\BarberAkji\BarberAkji.Models\obj\Debug\net8.0\BarberAkji.Models.csproj.AssemblyReference.cache
+C:\VisualStudios - NotOneDrive\Barberakji.3sem\BarberAkji\BarberAkji.Models\obj\Debug\net8.0\BarberAkji.Models.dll
+C:\VisualStudios - NotOneDrive\Barberakji.3sem\BarberAkji\BarberAkji.Models\obj\Debug\net8.0\refint\BarberAkji.Models.dll
+C:\VisualStudios - NotOneDrive\Barberakji.3sem\BarberAkji\BarberAkji.Models\obj\Debug\net8.0\BarberAkji.Models.pdb
+C:\VisualStudios - NotOneDrive\Barberakji.3sem\BarberAkji\BarberAkji.Models\obj\Debug\net8.0\ref\BarberAkji.Models.dll

@@ -1,0 +1,38 @@
+﻿@model IEnumerable<BarberAkji.Models.Entities.Booking>
+
+@{
+    ViewData["Title"] = "Kalender";
+    var grupperet = Model.GroupBy(b => b.Employee?.Name);
+}
+
+<h2 class="mb-4">Kalender</h2>
+
+<form asp-action="DeleteAll" method="post">
+    <button type="submit" class="btn btn-danger mb-3">Slet alle bookinger</button>
+</form>
+
+@foreach (var gruppe in grupperet)
+{
+    <h4>@gruppe.Key</h4>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Kunde</th>
+                <th>Service</th>
+                <th>Dato</th>
+                <th>Note</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var booking in gruppe.OrderBy(b => b.BookingDate))
+            {
+                <tr>
+                    <td>@booking.CustomerName</td>
+                    <td>@booking.Service?.Name</td>
+                    <td>@booking.BookingDate.ToString("dd-MM-yyyy HH:mm")</td>
+                    <td>@booking.Note</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

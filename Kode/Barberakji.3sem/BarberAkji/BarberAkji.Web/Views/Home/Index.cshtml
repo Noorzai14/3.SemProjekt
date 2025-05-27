@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Forside";
+}
+
+<h2>Velkommen til BarberAkji</h2>
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["Success"]
+    </div>
+}
+
+<div class="text-center">
+    <h1 class="display-4">BarberAkji</h1>
+    <p>Book din tid nemt og hurtigt.</p>
+
+    <a href="/Booking/Create" class="btn btn-primary btn-lg mt-4">Opret Booking</a>
+    <a href="/Booking/Calendar" class="btn btn-secondary btn-lg mt-4">Se Kalender</a>
+</div>

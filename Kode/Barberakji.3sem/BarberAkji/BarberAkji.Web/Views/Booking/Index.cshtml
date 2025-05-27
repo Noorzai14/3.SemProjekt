@@ -1,0 +1,41 @@
+﻿@using BarberAkji.Models.Entities
+@model List<Booking>
+
+
+@{
+    ViewData["Title"] = "Rediger Bookinger";
+}
+
+<h2>Bookinger</h2>
+
+@if (Model != null && Model.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Navn</th>
+                <th>Dato</th>
+                <th>Note</th>
+                <th>Handling</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var booking in Model)
+            {
+                <tr>
+                    <td>@booking.CustomerName</td>
+                    <td>@booking.BookingDate.ToString("dd-MM-yyyy HH:mm")</td>
+                    <td>@booking.Note</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@booking.Id" class="btn btn-warning btn-sm">Rediger</a>
+                        <a asp-action="Delete" asp-route-id="@booking.Id" class="btn btn-danger btn-sm">Slet</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <div class="alert alert-info">Ingen bookinger fundet.</div>
+}
