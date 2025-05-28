@@ -1,31 +1,31 @@
 var builder = WebApplication.CreateBuilder(args);
 
-// Tilføj MVC (controllers og views)
-builder.Services.AddControllersWithViews();
+builder.Services.AddControllersWithViews(); // Gør det muligt at bruge MVC med views og controllere
 
-// Registrer HttpClient til kald mod API
-builder.Services.AddHttpClient("BarberApi", client =>
+
+builder.Services.AddHttpClient("BarberApi", client => // Tilføj HttpClient, så vi kan kalde vores egen API fra frontend
 {
     client.BaseAddress = new Uri("https://localhost:7051/api/"); // Tilpas hvis din API-adresse ændres
 });
 
 var app = builder.Build();
 
-// Middleware-konfiguration
-if (!app.Environment.IsDevelopment())
+
+if (!app.Environment.IsDevelopment()) // Fejlhåndtering og HTTPS i production
 {
-    app.UseExceptionHandler("/Home/Error");
-    app.UseHsts();
+    app.UseExceptionHandler("/Home/Error"); // Viser brugervenlig fejlside
+    app.UseHsts(); // Tvinger HTTPS
 }
 
-app.UseHttpsRedirection();
-app.UseStaticFiles();
+app.UseHttpsRedirection(); // Sørger for at alt bliver kørt over HTTPS
+app.UseStaticFiles(); // Mulighed for at servere fx billeder, CSS osv.
 
-app.UseRouting();
-app.UseAuthorization();
+app.UseRouting(); // Aktiverer routing til controllers
+app.UseAuthorization(); // Klar til hvis man vil bruge roller/autorisering
 
+// Standardrute: starter i HomeController og Index
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
-app.Run();
+app.Run(); // Starter webapplikationen

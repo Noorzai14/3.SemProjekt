@@ -1,10 +1,10 @@
 ﻿namespace BarberAkji.Models.Entities
 {
-    public class Employee
+    public class Employee // Repræsenterer en medarbejder i barbershoppen
     {
-        public int Id { get; set; }
-        public string Name { get; set; } = string.Empty;
+        public int Id { get; set; } // Primær nøgle
+        public string Name { get; set; } = string.Empty; // Medarbejderens navn
 
-        public ICollection<Booking> Bookings { get; set; } = new List<Booking>();
+        public ICollection<Booking> Bookings { get; set; } = new List<Booking>(); // Liste over bookinger tilknyttet denne medarbejder
     }
 }

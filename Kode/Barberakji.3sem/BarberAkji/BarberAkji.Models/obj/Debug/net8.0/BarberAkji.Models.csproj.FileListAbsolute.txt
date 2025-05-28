@@ -10,3 +10,16 @@ C:\VisualStudios - NotOneDrive\Barberakji.3sem\BarberAkji\BarberAkji.Models\obj\
 C:\VisualStudios - NotOneDrive\Barberakji.3sem\BarberAkji\BarberAkji.Models\obj\Debug\net8.0\refint\BarberAkji.Models.dll
 C:\VisualStudios - NotOneDrive\Barberakji.3sem\BarberAkji\BarberAkji.Models\obj\Debug\net8.0\BarberAkji.Models.pdb
 C:\VisualStudios - NotOneDrive\Barberakji.3sem\BarberAkji\BarberAkji.Models\obj\Debug\net8.0\ref\BarberAkji.Models.dll
+C:\Users\choaw\OneDrive\Desktop\3.Semester Project\ProgrammeringOgTechProjekt\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.Models\bin\Debug\net8.0\BarberAkji.Models.deps.json
+C:\Users\choaw\OneDrive\Desktop\3.Semester Project\ProgrammeringOgTechProjekt\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.Models\bin\Debug\net8.0\BarberAkji.Models.dll
+C:\Users\choaw\OneDrive\Desktop\3.Semester Project\ProgrammeringOgTechProjekt\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.Models\bin\Debug\net8.0\BarberAkji.Models.pdb
+C:\Users\choaw\OneDrive\Desktop\3.Semester Project\ProgrammeringOgTechProjekt\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.Models\obj\Debug\net8.0\BarberAkji.Models.csproj.AssemblyReference.cache
+C:\Users\choaw\OneDrive\Desktop\3.Semester Project\ProgrammeringOgTechProjekt\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.Models\obj\Debug\net8.0\BarberAkji.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\choaw\OneDrive\Desktop\3.Semester Project\ProgrammeringOgTechProjekt\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.Models\obj\Debug\net8.0\BarberAkji.Models.AssemblyInfoInputs.cache
+C:\Users\choaw\OneDrive\Desktop\3.Semester Project\ProgrammeringOgTechProjekt\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.Models\obj\Debug\net8.0\BarberAkji.Models.AssemblyInfo.cs
+C:\Users\choaw\OneDrive\Desktop\3.Semester Project\ProgrammeringOgTechProjekt\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.Models\obj\Debug\net8.0\BarberAkji.Models.csproj.CoreCompileInputs.cache
+C:\Users\choaw\OneDrive\Desktop\3.Semester Project\ProgrammeringOgTechProjekt\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.Models\obj\Debug\net8.0\BarberAkji.Models.sourcelink.json
+C:\Users\choaw\OneDrive\Desktop\3.Semester Project\ProgrammeringOgTechProjekt\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.Models\obj\Debug\net8.0\BarberAkji.Models.dll
+C:\Users\choaw\OneDrive\Desktop\3.Semester Project\ProgrammeringOgTechProjekt\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.Models\obj\Debug\net8.0\refint\BarberAkji.Models.dll
+C:\Users\choaw\OneDrive\Desktop\3.Semester Project\ProgrammeringOgTechProjekt\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.Models\obj\Debug\net8.0\BarberAkji.Models.pdb
+C:\Users\choaw\OneDrive\Desktop\3.Semester Project\ProgrammeringOgTechProjekt\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.Models\obj\Debug\net8.0\ref\BarberAkji.Models.dll
