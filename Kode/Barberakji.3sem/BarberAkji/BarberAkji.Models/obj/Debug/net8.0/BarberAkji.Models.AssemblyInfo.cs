@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BarberAkji.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16fee8ee51dff759981862813a38a6cbd05f9471")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42184cd3fb85e16a45a8624d682f84ca80c026d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("BarberAkji.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BarberAkji.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

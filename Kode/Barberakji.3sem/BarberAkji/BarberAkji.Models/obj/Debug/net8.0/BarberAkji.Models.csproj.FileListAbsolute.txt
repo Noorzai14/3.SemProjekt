@@ -36,3 +36,16 @@ C:\Users\samir\OneDrive\Skrivebord\UCN\1. Semester\Programmering\3.SemProjekt\Ko
 C:\Users\samir\OneDrive\Skrivebord\UCN\1. Semester\Programmering\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.Models\obj\Debug\net8.0\refint\BarberAkji.Models.dll
 C:\Users\samir\OneDrive\Skrivebord\UCN\1. Semester\Programmering\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.Models\obj\Debug\net8.0\BarberAkji.Models.pdb
 C:\Users\samir\OneDrive\Skrivebord\UCN\1. Semester\Programmering\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.Models\obj\Debug\net8.0\ref\BarberAkji.Models.dll
+C:\Pdiddy\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.Models\bin\Debug\net8.0\BarberAkji.Models.deps.json
+C:\Pdiddy\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.Models\bin\Debug\net8.0\BarberAkji.Models.dll
+C:\Pdiddy\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.Models\bin\Debug\net8.0\BarberAkji.Models.pdb
+C:\Pdiddy\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.Models\obj\Debug\net8.0\BarberAkji.Models.csproj.AssemblyReference.cache
+C:\Pdiddy\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.Models\obj\Debug\net8.0\BarberAkji.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pdiddy\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.Models\obj\Debug\net8.0\BarberAkji.Models.AssemblyInfoInputs.cache
+C:\Pdiddy\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.Models\obj\Debug\net8.0\BarberAkji.Models.AssemblyInfo.cs
+C:\Pdiddy\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.Models\obj\Debug\net8.0\BarberAkji.Models.csproj.CoreCompileInputs.cache
+C:\Pdiddy\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.Models\obj\Debug\net8.0\BarberAkji.Models.sourcelink.json
+C:\Pdiddy\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.Models\obj\Debug\net8.0\BarberAkji.Models.dll
+C:\Pdiddy\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.Models\obj\Debug\net8.0\refint\BarberAkji.Models.dll
+C:\Pdiddy\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.Models\obj\Debug\net8.0\BarberAkji.Models.pdb
+C:\Pdiddy\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.Models\obj\Debug\net8.0\ref\BarberAkji.Models.dll
