@@ -23,7 +23,7 @@ namespace BarberAkji.API.Repositories
             using var connection = _context.CreateConnection();
 
             // Starter en transaktion for at kunne rulle tilbage hvis noget går galt
-            using var transaction = connection.BeginTransaction(IsolationLevel.Serializable);
+            using var transaction = connection.BeginTransaction(IsolationLevel.RepeatableRead);
 
             try
             {
