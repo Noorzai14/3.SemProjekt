@@ -1,9 +1,12 @@
 namespace BarberAkji.Web.Models
 {
-    public class ErrorViewModel // Model til visning af fejl – bruges hvis noget går galt i webdelen
+    // ViewModel der bruges til at vise fejl i Error.cshtml
+    public class ErrorViewModel
     {
-        public string? RequestId { get; set; } // Unik ID for anmodningen, bruges til fejlfinding
+        // Gemmer ID'et for den aktuelle HTTP-request – bruges til fejlfinding
+        public string? RequestId { get; set; }
 
-        public bool ShowRequestId => !string.IsNullOrEmpty(RequestId); // Viser kun RequestId hvis den ikke er tom – bruges i fejlsider
+        // Bruges i viewet til at vise fejlinfo hvis der faktisk er et ID
+        public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
     }
 }

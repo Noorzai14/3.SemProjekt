@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "BarberAkji.Web\\BarberAkji.Web.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "BarberAkji.API\\BarberAkji.API.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

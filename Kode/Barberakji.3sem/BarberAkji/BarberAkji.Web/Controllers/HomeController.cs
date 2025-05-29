@@ -1,6 +1,7 @@
 using BarberAkji.Models.Entities;
 using BarberAkji.Web.Models;
 using Microsoft.AspNetCore.Mvc;
+using System.Diagnostics; // Bruges til at få RequestId
 using System.Net.Http.Json;
 
 namespace BarberAkji.Web.Controllers
@@ -9,57 +10,67 @@ namespace BarberAkji.Web.Controllers
     {
         private readonly IHttpClientFactory _httpClientFactory;
 
-        public HomeController(IHttpClientFactory httpClientFactory) // Vi bruger IHttpClientFactory til at oprette HTTP-klienter, så vi kan snakke med vores API
+        public HomeController(IHttpClientFactory httpClientFactory)
         {
             _httpClientFactory = httpClientFactory;
         }
 
-        [HttpGet] // Viser forsiden (Index view)
+        [HttpGet]
         public IActionResult Index()
         {
             return View();
         }
 
-        [HttpGet] // Viser formularen til at oprette en ny booking
+        [HttpGet]
         public IActionResult CreateBooking()
         {
             return View();
         }
 
-        [HttpPost] // Håndterer når brugeren indsender bookingformularen
+        [HttpPost]
         public async Task<IActionResult> CreateBooking(Booking model)
         {
             if (!ModelState.IsValid)
                 return View(model);
 
-            var client = _httpClientFactory.CreateClient("BarberApi"); // husk navngivningen i Program.cs
-            var response = await client.PostAsJsonAsync("booking", model); // Sender booking til API'en
+            var client = _httpClientFactory.CreateClient("BarberApi");
+            var response = await client.PostAsJsonAsync("booking", model);
 
-            if (response.IsSuccessStatusCode) // Hvis alt går godt, vis besked og send tilbage til forsiden
+            if (response.IsSuccessStatusCode)
             {
                 TempData["Success"] = "Booking oprettet!";
                 return RedirectToAction("Index");
             }
 
-
-            ModelState.AddModelError("", "Fejl ved oprettelse af booking."); // Hvis der er fejl, vis fejlbesked og behold data i formularen
+            ModelState.AddModelError("", "Fejl ved oprettelse af booking.");
             return View(model);
         }
 
-        [HttpGet] // Viser kalenderen med alle bookinger
+        [HttpGet]
         public async Task<IActionResult> Calendar()
         {
             var client = _httpClientFactory.CreateClient("BarberApi");
-            var response = await client.GetAsync("booking"); // Henter bookinger fra API
+            var response = await client.GetAsync("booking");
 
-            if (!response.IsSuccessStatusCode) // Hvis det fejler, send tom liste og fejlbesked til view
+            if (!response.IsSuccessStatusCode)
             {
                 TempData["Error"] = "Kunne ikke hente bookinger.";
                 return View(new List<Booking>());
             }
 
-            var bookings = await response.Content.ReadFromJsonAsync<List<Booking>>(); // Læser JSON-data til en liste af Booking-objekter
+            var bookings = await response.Content.ReadFromJsonAsync<List<Booking>>();
             return View(bookings);
         }
+
+        // Denne metode kaldes automatisk når en fejl opstår – her sender vi en ErrorViewModel
+        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+        public class ErrorViewModel
+        {
+            public string? RequestId { get; set; }
+
+            // Read-only property – regner selv ud om der er et ID
+            public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
+        }
+
     }
 }

@@ -2,9 +2,9 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllersWithViews(); // Gør det muligt at bruge MVC med views og controllere
 
-builder.Services.AddHttpClient("BarberApi", client => // Tilføjer HttpClient til at kalde API fra frontend
+builder.Services.AddHttpClient("BarberApi", client =>
 {
-    client.BaseAddress = new Uri("https://localhost:7051/api/"); // Matcher fast port fra API-launchSettings.json
+    client.BaseAddress = new Uri("https://localhost:7051/api/"); // Dette skal matche den faste port
 });
 
 var app = builder.Build();
