@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|c:\\users\\choaw\\onedrive\\desktop\\3.semester project\\programmeringogtechprojekt\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|solutionrelative:barberakji.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|c:\\users\\choaw\\onedrive\\desktop\\3.semester project\\programmeringogtechprojekt\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|solutionrelative:barberakji.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BarberAkji.Web\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BarberAkji.Web\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T09:09:48.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BarberAkji.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BarberAkji.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwCUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T09:09:43.233Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
