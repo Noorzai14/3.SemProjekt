@@ -1,25 +1,17 @@
 {
     "profiles": {
-        "http": {
+        // Hovedprofil til API-projektet: Lytter på både HTTP og HTTPS på faste porte
+        "BarberAkji.API": {
             "commandName": "Project",
             "launchBrowser": true,
-            "launchUrl": "swagger", // Starter Swagger automatisk
+            "launchUrl": "swagger", // Starter Swagger automatisk når projektet køres
+            "applicationUrl": "https://localhost:7051;http://localhost:7050", // Fast HTTPS og HTTP-porte
             "environmentVariables": {
                 "ASPNETCORE_ENVIRONMENT": "Development"
             },
-            "dotnetRunMessages": true,
-            "applicationUrl": "http://localhost:7050" // Fast HTTP-port
+            "dotnetRunMessages": true // Viser hvilke porte der bruges i output
         },
-        "https": {
-            "commandName": "Project",
-            "launchBrowser": true,
-            "launchUrl": "swagger",
-            "environmentVariables": {
-                "ASPNETCORE_ENVIRONMENT": "Development"
-            },
-            "dotnetRunMessages": true,
-            "applicationUrl": "https://localhost:7051;http://localhost:7050" // Fast HTTPS og HTTP
-        },
+        // IIS Express profil - bruges hvis du vælger IIS Express (kan beholdes som backup)
         "IIS Express": {
             "commandName": "IISExpress",
             "launchBrowser": true,
@@ -28,6 +20,7 @@
                 "ASPNETCORE_ENVIRONMENT": "Development"
             }
         },
+        // Docker profil (kan slettes, men beholdt hvis du arbejder med containere)
         "Container (Dockerfile)": {
             "commandName": "Docker",
             "launchBrowser": true,

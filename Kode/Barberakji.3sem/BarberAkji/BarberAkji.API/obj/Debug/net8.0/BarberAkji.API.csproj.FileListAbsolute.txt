@@ -14,8 +14,6 @@ C:\Users\choaw\OneDrive\Desktop\3.Semester Project\ProgrammeringOgTechProjekt\3.
 C:\Users\choaw\OneDrive\Desktop\3.Semester Project\ProgrammeringOgTechProjekt\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
 C:\Users\choaw\OneDrive\Desktop\3.Semester Project\ProgrammeringOgTechProjekt\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
 C:\Users\choaw\OneDrive\Desktop\3.Semester Project\ProgrammeringOgTechProjekt\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.API\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
-C:\Users\choaw\OneDrive\Desktop\3.Semester Project\ProgrammeringOgTechProjekt\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\choaw\OneDrive\Desktop\3.Semester Project\ProgrammeringOgTechProjekt\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\choaw\OneDrive\Desktop\3.Semester Project\ProgrammeringOgTechProjekt\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
 C:\Users\choaw\OneDrive\Desktop\3.Semester Project\ProgrammeringOgTechProjekt\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\choaw\OneDrive\Desktop\3.Semester Project\ProgrammeringOgTechProjekt\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
@@ -24,7 +22,6 @@ C:\Users\choaw\OneDrive\Desktop\3.Semester Project\ProgrammeringOgTechProjekt\3.
 C:\Users\choaw\OneDrive\Desktop\3.Semester Project\ProgrammeringOgTechProjekt\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.API\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
 C:\Users\choaw\OneDrive\Desktop\3.Semester Project\ProgrammeringOgTechProjekt\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.API\bin\Debug\net8.0\Microsoft.Extensions.Localization.dll
 C:\Users\choaw\OneDrive\Desktop\3.Semester Project\ProgrammeringOgTechProjekt\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.API\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
-C:\Users\choaw\OneDrive\Desktop\3.Semester Project\ProgrammeringOgTechProjekt\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
 C:\Users\choaw\OneDrive\Desktop\3.Semester Project\ProgrammeringOgTechProjekt\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\choaw\OneDrive\Desktop\3.Semester Project\ProgrammeringOgTechProjekt\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.API\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
 C:\Users\choaw\OneDrive\Desktop\3.Semester Project\ProgrammeringOgTechProjekt\3.SemProjekt\Kode\Barberakji.3sem\BarberAkji\BarberAkji.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "18YGpFEOEBY=",
+  "dgSpecHash": "CObkouwVPzs=",
   "success": true,
   "projectFilePath": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\BarberAkji.API.csproj",
   "expectedPackageFiles": [
@@ -51,9 +51,6 @@
     "C:\\Users\\choaw\\.nuget\\packages\\microsoft.codeanalysis.razor\\2.3.0\\microsoft.codeanalysis.razor.2.3.0.nupkg.sha512",
     "C:\\Users\\choaw\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\choaw\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\2.1.0\\microsoft.dotnet.platformabstractions.2.1.0.nupkg.sha512",
-    "C:\\Users\\choaw\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.15\\microsoft.entityframeworkcore.8.0.15.nupkg.sha512",
-    "C:\\Users\\choaw\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.15\\microsoft.entityframeworkcore.abstractions.8.0.15.nupkg.sha512",
-    "C:\\Users\\choaw\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.15\\microsoft.entityframeworkcore.analyzers.8.0.15.nupkg.sha512",
     "C:\\Users\\choaw\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\choaw\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\choaw\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.1\\microsoft.extensions.caching.memory.8.0.1.nupkg.sha512",
@@ -68,7 +65,6 @@
     "C:\\Users\\choaw\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\8.0.1\\microsoft.extensions.hosting.abstractions.8.0.1.nupkg.sha512",
     "C:\\Users\\choaw\\.nuget\\packages\\microsoft.extensions.localization\\8.0.11\\microsoft.extensions.localization.8.0.11.nupkg.sha512",
     "C:\\Users\\choaw\\.nuget\\packages\\microsoft.extensions.localization.abstractions\\8.0.11\\microsoft.extensions.localization.abstractions.8.0.11.nupkg.sha512",
-    "C:\\Users\\choaw\\.nuget\\packages\\microsoft.extensions.logging\\8.0.1\\microsoft.extensions.logging.8.0.1.nupkg.sha512",
     "C:\\Users\\choaw\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
     "C:\\Users\\choaw\\.nuget\\packages\\microsoft.extensions.objectpool\\8.0.11\\microsoft.extensions.objectpool.8.0.11.nupkg.sha512",
     "C:\\Users\\choaw\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
