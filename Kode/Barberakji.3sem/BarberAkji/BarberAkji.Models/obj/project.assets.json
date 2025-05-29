@@ -7845,23 +7845,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\alix1\\.nuget\\packages\\": {},
+    "C:\\Users\\choaw\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Pdiddy\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\BarberAkji.Models.csproj",
+      "projectUniqueName": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\BarberAkji.Models.csproj",
       "projectName": "BarberAkji.Models",
-      "projectPath": "C:\\Pdiddy\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\BarberAkji.Models.csproj",
-      "packagesPath": "C:\\Users\\alix1\\.nuget\\packages\\",
-      "outputPath": "C:\\Pdiddy\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\obj\\",
+      "projectPath": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\BarberAkji.Models.csproj",
+      "packagesPath": "C:\\Users\\choaw\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\alix1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\choaw\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

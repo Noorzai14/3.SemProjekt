@@ -1,3 +1,4 @@
+using BarberAkji.API.Data;
 using BarberAkji.API.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -9,7 +10,7 @@ builder.Services.AddControllers(); // Tilføjer controller-understøttelse
 builder.Services.AddEndpointsApiExplorer(); 
 builder.Services.AddSwaggerGen();
 
-
+builder.Services.AddSingleton<DapperContext>();  // Registrerer DapperContext så vi kan oprette SQL-forbindelser i vores repository
 builder.Services.AddScoped<BookingRepository>(); // Dependency injection af vores repository
 
 
