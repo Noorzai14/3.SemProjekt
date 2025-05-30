@@ -1,5 +1,6 @@
 ﻿using System.Data;
-using System.Data.SqlClient;
+using Microsoft.Data.SqlClient;
+
 
 
 public class SqlConnectionFactory // Simpel factory til at oprette SQL-forbindelser baseret på connection string i config

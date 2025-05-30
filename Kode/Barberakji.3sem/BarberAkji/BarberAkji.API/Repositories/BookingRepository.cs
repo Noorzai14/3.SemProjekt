@@ -1,7 +1,5 @@
-﻿// denne klasse skal ind i stien /BarberAkji.API/Data/Repositories/BookingRepository.cs (bookingRepository.cs skal laves den er ikke oprettet endnu)
-
-using System.Data;
-using System.Data.SqlClient;
+﻿using System.Data;
+using Microsoft.Data.SqlClient;
 using Dapper;
 using BarberAkji.API.Data;
 using BarberAkji.Models.Entities;
