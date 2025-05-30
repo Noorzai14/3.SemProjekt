@@ -5,6 +5,7 @@
 }
 
 <h2>Opret Booking</h2>
+
 @{
     var globalErrors = ViewData.ModelState[""]?.Errors;
     if (!ViewData.ModelState.IsValid && globalErrors != null && globalErrors.Count > 0)
@@ -14,8 +15,6 @@
         </script>
     }
 }
-
-
 
 <form asp-action="Create" method="post">
     <div class="form-group">
@@ -47,3 +46,9 @@
 
     <button type="submit" class="btn btn-primary mt-2">Book</button>
 </form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

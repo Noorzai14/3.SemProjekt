@@ -1,10 +1,11 @@
 [
   {
-    "Name": "New Profile",
+    "Name": "API + Web startup",
     "Projects": [
       {
         "Path": "BarberAkji.Web\\BarberAkji.Web.csproj",
-        "Action": "Start"
+        "Action": "Start",
+        "DebugTarget": "https"
       },
       {
         "Path": "BarberAkji.API\\BarberAkji.API.csproj",

@@ -19,15 +19,37 @@ namespace BarberAkji.API.Repositories
         public async Task<(bool isSuccess, string message)> TryCreateBookingAsync(Booking booking)
         {
             using var connection = _context.CreateConnection();
-
-            // Starter en transaktion for at kunne rulle tilbage hvis noget går galt
             using var transaction = connection.BeginTransaction(IsolationLevel.RepeatableRead);
+
+            
+
 
             try
             {
-                var sql = @"INSERT INTO Bookings (CustomerName, BookingDate, Note, EmployeeId, ServiceId)
-                            VALUES (@CustomerName, @BookingDate, @Note, @EmployeeId, @ServiceId)";
+                // Tjek for overlap: Findes der allerede en booking for samme medarbejder og tidspunkt?
+                var overlapSql = @"SELECT COUNT(1) FROM Bookings
+                           WHERE EmployeeId = @EmployeeId
+                             AND BookingDate = @BookingDate";
 
+
+                System.Diagnostics.Debugger.Break();
+
+
+                var overlap = await connection.ExecuteScalarAsync<int>(
+                    overlapSql,
+                    new { booking.EmployeeId, booking.BookingDate },
+                    transaction
+                );
+
+                if (overlap > 0)
+                {
+                    transaction.Rollback();
+                    return (false, "Tiden overlapper med en eksisterende booking.");
+                }
+
+                // Hvis ingen overlap, opret booking
+                var sql = @"INSERT INTO Bookings (CustomerName, BookingDate, Note, EmployeeId, ServiceId)
+                    VALUES (@CustomerName, @BookingDate, @Note, @EmployeeId, @ServiceId)";
                 await connection.ExecuteAsync(sql, booking, transaction);
 
                 transaction.Commit();
@@ -36,14 +58,10 @@ namespace BarberAkji.API.Repositories
             catch (SqlException ex)
             {
                 transaction.Rollback();
-
-                // 2627/2601 betyder at unik constraint er blevet brudt (dobbeltbooking)
-                if (ex.Number == 2627 || ex.Number == 2601)
-                    return (false, "Der findes allerede en booking for denne medarbejder på det tidspunkt.");
-
                 return (false, $"Ukendt fejl: {ex.Message}");
             }
         }
+
 
         // Henter alle bookinger fra databasen
         public async Task<IEnumerable<Booking>> GetAllBookingsAsync()

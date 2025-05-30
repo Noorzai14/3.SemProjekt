@@ -1,15 +1,16 @@
 {
+    // launchSettings.json bestemmer hvordan projektet starter i udvikling (localhost).
     "profiles": {
-        // Web-projektet bruger egne porte (her: 7071 for HTTPS, 7070 for HTTP)
         "https": {
-            "commandName": "Project",
-            "launchBrowser": true,
+            "commandName": "Project", // Start som .NET-projekt
+            "launchBrowser": true, // Åbn browser automatisk
             "environmentVariables": {
-                "ASPNETCORE_ENVIRONMENT": "Development"
+                "ASPNETCORE_ENVIRONMENT": "Development" // Brug udviklingsmiljø
             },
-            "dotnetRunMessages": true,
-            "applicationUrl": "https://localhost:7071;http://localhost:7070"
+            "dotnetRunMessages": true, // Vis run-messages i konsol
+            "applicationUrl": "https://localhost:7071;http://localhost:7070" // Sæt porte (fast)
         },
+        // HTTP-profil – hvis du vil teste kun HTTP (typisk bruger man https)
         "http": {
             "commandName": "Project",
             "launchBrowser": true,
@@ -19,13 +20,16 @@
             "dotnetRunMessages": true,
             "applicationUrl": "http://localhost:7070"
         },
+        // IIS Express – bruges kun hvis du starter med IIS Express
         "IIS Express": {
             "commandName": "IISExpress",
             "launchBrowser": true,
             "environmentVariables": {
                 "ASPNETCORE_ENVIRONMENT": "Development"
             }
+            // IIS Express bruger sin egen port, sat nedenfor i iisSettings
         },
+        // Docker – bruges kun hvis du kører med Docker containers
         "Container (Dockerfile)": {
             "commandName": "Docker",
             "launchBrowser": true,
@@ -38,13 +42,15 @@
             "useSSL": true
         }
     },
+    // Schema for Visual Studio (bruges bare af editoren)
     "$schema": "http://json.schemastore.org/launchsettings.json",
+    // IIS settings bruges KUN hvis du starter med IIS Express (ikke nødvendigt ved 'Project'-start)
     "iisSettings": {
         "windowsAuthentication": false,
         "anonymousAuthentication": true,
         "iisExpress": {
-            "applicationUrl": "http://localhost:26993",
-            "sslPort": 44330
+            "applicationUrl": "http://localhost:26993", // IIS Express HTTP port
+            "sslPort": 44330 // IIS Express HTTPS port
         }
     }
 }

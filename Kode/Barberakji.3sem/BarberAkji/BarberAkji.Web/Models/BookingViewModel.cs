@@ -1,26 +1,34 @@
-﻿using Microsoft.AspNetCore.Mvc.Rendering;
+﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using Microsoft.AspNetCore.Mvc.Rendering;
 
-namespace BarberAkji.Web.Models
+namespace BarberAkji.Models
+
 {
-    public class BookingViewModel // ViewModel bruges til at vise/formdata i Web-delen – adskilt fra databasen
+    public class BookingViewModel
     {
-        [Required] // Brugerens navn er påkrævet
-        public string CustomerName { get; set; } = string.Empty;
+        [Required]
+        [Display(Name = "Navn")]
+        public required string CustomerName { get; set; }
 
-        [Required] // Dato og tid for bookingen – også påkrævet
-        public DateTime BookingDate { get; set; }
+        [Required]
+        [Display(Name = "Booking Dato og Tid")]
+        [DisplayFormat(DataFormatString = "{0:yyyy-MM-ddTHH:mm}", ApplyFormatInEditMode = true)]
+        public DateTime BookingDate { get; set; } = DateTime.Now; // Sætter startdato til nu
 
-        public string? Note { get; set; } // Valgfri note – fx hvis kunden har en speciel besked, allergener, promotions fra sociale medier osv. 
+        public string? Note { get; set; }
 
-        [Required] // Ansat/barber er påkrævet
+        [Required]
+        [Display(Name = "Barber")]
         public int EmployeeId { get; set; }
 
-        [Required] // Service er påkrævet
+        [Required]
+        [Display(Name = "Service")]
         public int ServiceId { get; set; }
 
-        // Dropdowns til at vise medarbejdere og services i viewet
-        public List<SelectListItem>? Employees { get; set; }
-        public List<SelectListItem>? Services { get; set; }
+        // Drop-down lister til ansatte og services
+        public List<SelectListItem> Employees { get; set; } = new List<SelectListItem>();
+        public List<SelectListItem> Services { get; set; } = new List<SelectListItem>();
     }
 }

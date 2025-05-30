@@ -1,26 +1,30 @@
 ﻿using System.ComponentModel.DataAnnotations;
-using BarberAkji.Models.Entities;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
-namespace BarberAkji.Models
+namespace BarberAkji.ViewModels
 {
     public class BookingViewModel
     {
         [Required]
-        public string CustomerName { get; set; } = ""; // Navn på kunden (skal udfyldes)
+        [Display(Name = "Navn")]
+        public string CustomerName { get; set; } = "";
 
         [Required]
-        public DateTime BookingDate { get; set; } // Hvornår bookingen skal finde sted
+        [Display(Name = "Booking Dato og Tid")]
+        [DisplayFormat(DataFormatString = "{0:yyyy-MM-ddTHH:mm}", ApplyFormatInEditMode = true)]
+        public DateTime BookingDate { get; set; } = DateTime.Now;
 
         [Required]
-        public int EmployeeId { get; set; } // Hvilken medarbejder der er valgt
+        [Display(Name = "Barber")]
+        public int EmployeeId { get; set; }
 
         [Required]
-        public int ServiceId { get; set; } // Hvilken service kunden har valgt
+        [Display(Name = "Service")]
+        public int ServiceId { get; set; }
 
-        public string? Note { get; set; } // Mulighed for at skrive en note til bookingen
+        public string? Note { get; set; }
 
-        public List<SelectListItem> Employees { get; set; } = new(); // Bruges til dropdown med medarbejdere
-        public List<SelectListItem> Services { get; set; } = new(); // Bruges til dropdown med services
+        public List<SelectListItem> Employees { get; set; } = new();
+        public List<SelectListItem> Services { get; set; } = new();
     }
 }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "KPf81w2hPlI=",
+  "dgSpecHash": "vJgZsyf9jqs=",
   "success": true,
   "projectFilePath": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\BarberAkji.Models.csproj",
   "expectedPackageFiles": [
@@ -186,5 +186,12 @@
     "C:\\Users\\choaw\\.nuget\\packages\\system.xml.xpath\\4.3.0\\system.xml.xpath.4.3.0.nupkg.sha512",
     "C:\\Users\\choaw\\.nuget\\packages\\system.xml.xpath.xdocument\\4.3.0\\system.xml.xpath.xdocument.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Object reference not set to an instance of an object."
+    }
+  ]
 }

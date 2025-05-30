@@ -1,9 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using BarberAkji.Models;
+//using BarberAkji.Models;
 using BarberAkji.Models.Entities;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using System.Text;
 using System.Text.Json;
+using BarberAkji.ViewModels;
 
 namespace BarberAkji.Web.Controllers
 {
@@ -32,7 +33,7 @@ namespace BarberAkji.Web.Controllers
             var employees = await employeesResponse.Content.ReadFromJsonAsync<List<Employee>>();
             var services = await servicesResponse.Content.ReadFromJsonAsync<List<Service>>();
 
-            var model = new BookingViewModel
+            var model = new ViewModels.BookingViewModel
             {
                 Employees = (employees ?? new List<Employee>()).Select(e => new SelectListItem
                 {
@@ -78,26 +79,6 @@ namespace BarberAkji.Web.Controllers
 
             TempData["Success"] = "Booking oprettet!";
             return RedirectToAction("Index", "Home");
-        }
-
-        [HttpGet]
-        public async Task<IActionResult> Calendar()
-        {
-            var client = _httpClientFactory.CreateClient("BarberApi");
-            var response = await client.GetAsync("booking");
-
-            if (!response.IsSuccessStatusCode)
-                return View("Error");
-
-            var bookings = await response.Content.ReadFromJsonAsync<List<Booking>>();
-            return View(bookings);
-        }
-
-        [HttpPost]
-        public IActionResult DeleteAll()
-        {
-            TempData["Info"] = "DeleteAll skal laves i API først.";
-            return RedirectToAction("Calendar");
         }
 
         private async Task<IActionResult> ReloadForm(BookingViewModel model)

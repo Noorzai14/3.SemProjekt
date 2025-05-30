@@ -1,14 +1,17 @@
 {
+    // launchSettings.json bestemmer hvordan API-projektet starter i udvikling.
     "profiles": {
+        // Profil til at starte API-projektet direkte som .NET-projekt
         "BarberAkji.API": {
             "commandName": "Project",
-            "launchBrowser": true,
-            "launchUrl": "swagger",
-            "applicationUrl": "https://localhost:7051;http://localhost:7050",
+            "launchBrowser": true, // Åbner browser med swagger
+            "launchUrl": "swagger", // Åbner swagger-dokumentation først
+            "applicationUrl": "https://localhost:7051;http://localhost:7050", // Faste porte til API
             "environmentVariables": {
                 "ASPNETCORE_ENVIRONMENT": "Development"
             }
         },
+        // IIS Express-profil, hvis du vælger at køre via IIS Express
         "IIS Express": {
             "commandName": "IISExpress",
             "launchBrowser": true,
@@ -17,6 +20,7 @@
                 "ASPNETCORE_ENVIRONMENT": "Development"
             }
         },
+        // Docker container (ofte ikke relevant for skoleprojekter)
         "Container (Dockerfile)": {
             "commandName": "Docker",
             "launchBrowser": true,
