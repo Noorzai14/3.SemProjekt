@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BarberAkji.Desktop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+333263a9b201e1b5bd6b2b92f8ceda35809fa7a6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7785d19d8a83523430b0c576a82864f740cdcb3b")]
 [assembly: System.Reflection.AssemblyProductAttribute("BarberAkji.Desktop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BarberAkji.Desktop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

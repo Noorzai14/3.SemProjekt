@@ -3,78 +3,93 @@ using Microsoft.Data.SqlClient;
 using Dapper;
 using BarberAkji.API.Data;
 using BarberAkji.Models.Entities;
+using Microsoft.Extensions.Configuration;
 
 namespace BarberAkji.API.Repositories
 {
     public class BookingRepository
     {
-        private readonly DapperContext _context;
+        private readonly string _connectionString;
 
-        public BookingRepository(DapperContext context)
+        public BookingRepository(IConfiguration configuration)
         {
-            _context = context;
+            _connectionString = configuration.GetConnectionString("DefaultConnection");
         }
 
         // Denne metode forsøger at oprette en ny booking
         public async Task<(bool isSuccess, string message)> TryCreateBookingAsync(Booking booking)
         {
-            using var connection = _context.CreateConnection();
-            using var transaction = connection.BeginTransaction(IsolationLevel.RepeatableRead);
-
-            
-
-
             try
             {
-                // Tjek for overlap: Findes der allerede en booking for samme medarbejder og tidspunkt?
-                var overlapSql = @"SELECT COUNT(1) FROM Bookings
-                           WHERE EmployeeId = @EmployeeId
-                             AND BookingDate = @BookingDate";
+                using var connection = new SqlConnection(_connectionString);
+                await connection.OpenAsync();  // Åben kun én gang
 
+                using var transaction = connection.BeginTransaction(IsolationLevel.ReadUncommitted);
 
-                System.Diagnostics.Debugger.Break();
+                try
+                {
+                    var sql = @"INSERT INTO Bookings (CustomerName, BookingDate, Note, EmployeeId, ServiceId)
+                    VALUES (@CustomerName, @BookingDate, @Note, @EmployeeId, @ServiceId)";
 
+                    await connection.ExecuteAsync(sql, booking, transaction);
 
-                var overlap = await connection.ExecuteScalarAsync<int>(
-                    overlapSql,
-                    new { booking.EmployeeId, booking.BookingDate },
-                    transaction
-                );
-
-                if (overlap > 0)
+                    transaction.Commit();
+                    return (true, "Booking oprettet");
+                }
+                catch (SqlException ex)
                 {
                     transaction.Rollback();
-                    return (false, "Tiden overlapper med en eksisterende booking.");
+
+                    if (ex.Number == 2627 || ex.Number == 2601)
+                    {
+                        return (false, "Tiden overlapper med en eksisterende booking.");
+                    }
+
+                    return (false, $"Ukendt fejl: {ex.Message}");
                 }
-
-                // Hvis ingen overlap, opret booking
-                var sql = @"INSERT INTO Bookings (CustomerName, BookingDate, Note, EmployeeId, ServiceId)
-                    VALUES (@CustomerName, @BookingDate, @Note, @EmployeeId, @ServiceId)";
-                await connection.ExecuteAsync(sql, booking, transaction);
-
-                transaction.Commit();
-                return (true, "Booking oprettet");
             }
-            catch (SqlException ex)
+            catch (Exception ex)
             {
-                transaction.Rollback();
-                return (false, $"Ukendt fejl: {ex.Message}");
+                throw;  // Brug 'throw;' i stedet for 'throw ex;' for at bevare stack trace
             }
+
+
         }
 
 
         // Henter alle bookinger fra databasen
         public async Task<IEnumerable<Booking>> GetAllBookingsAsync()
         {
-            using var connection = _context.CreateConnection();
-            var sql = @"SELECT * FROM Bookings";
-            return await connection.QueryAsync<Booking>(sql);
+            using var connection = new SqlConnection(_connectionString);
+            await connection.OpenAsync();
+
+            var sql = @"
+            SELECT 
+                b.*, 
+                e.*, 
+                s.*
+            FROM Bookings b
+            JOIN Employees e ON b.EmployeeId = e.Id
+            JOIN Services s ON b.ServiceId = s.Id";
+
+            var bookings = await connection.QueryAsync<Booking, Employee, Service, Booking>(
+            sql,
+            (booking, employee, service) =>
+            {
+                booking.Employee = employee;
+                booking.Service = service;
+                return booking;
+            },
+            splitOn: "Id,Id" // Dapper bruger dette til at forstå hvor Employee og Service starter
+        );
+            return bookings;
         }
 
         // Sletter en booking ud fra bookingens ID
         public async Task<bool> DeleteBookingAsync(int id)
         {
-            using var connection = _context.CreateConnection();
+            using var connection = new SqlConnection(_connectionString);
+            await connection.OpenAsync();
             var sql = "DELETE FROM Bookings WHERE Id = @Id";
             var rows = await connection.ExecuteAsync(sql, new { Id = id });
             return rows > 0;

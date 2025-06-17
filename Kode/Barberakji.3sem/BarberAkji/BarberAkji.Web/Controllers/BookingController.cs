@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using System.Text;
 using System.Text.Json;
 using BarberAkji.ViewModels;
+using System.Text.Unicode;
 
 namespace BarberAkji.Web.Controllers
 {
@@ -52,7 +53,7 @@ namespace BarberAkji.Web.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Create(BookingViewModel model)
+        public async Task<IActionResult> Create(BookingViewModel model )
         {
             if (!ModelState.IsValid)
                 return await ReloadForm(model);
@@ -68,12 +69,21 @@ namespace BarberAkji.Web.Controllers
                 ServiceId = model.ServiceId
             };
 
-            var jsonContent = new StringContent(JsonSerializer.Serialize(booking), Encoding.UTF8, "application/json");
+            var jsonString = JsonSerializer.Serialize(booking);
+            var jsonContent = new StringContent(jsonString, Encoding.UTF8, "application/json");
+            System.Diagnostics.Debug.WriteLine($"Serialized JSON: {jsonString}");
+
             var response = await client.PostAsync("booking", jsonContent);
+
 
             if (!response.IsSuccessStatusCode)
             {
-                ModelState.AddModelError("", "Tiden overlapper med en eksisterende booking.");
+                if (response.StatusCode == System.Net.HttpStatusCode.Conflict)
+                {
+                    ModelState.AddModelError("", "Tiden overlapper med en eksisterende booking.");
+                    return await ReloadForm(model);
+                }
+                ModelState.AddModelError("", "Der skete en uventet fejl!");
                 return await ReloadForm(model);
             }
 

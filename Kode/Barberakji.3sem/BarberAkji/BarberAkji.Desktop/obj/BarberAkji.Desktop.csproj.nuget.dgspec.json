@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Desktop\\BarberAkji.Desktop.csproj": {}
+    "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Desktop\\BarberAkji.Desktop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Desktop\\BarberAkji.Desktop.csproj": {
+    "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Desktop\\BarberAkji.Desktop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Desktop\\BarberAkji.Desktop.csproj",
+        "projectUniqueName": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Desktop\\BarberAkji.Desktop.csproj",
         "projectName": "BarberAkji.Desktop",
-        "projectPath": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Desktop\\BarberAkji.Desktop.csproj",
-        "packagesPath": "C:\\Users\\choaw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Desktop\\obj\\",
+        "projectPath": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Desktop\\BarberAkji.Desktop.csproj",
+        "packagesPath": "C:\\Users\\Ali Barakji\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Desktop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\choaw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ali Barakji\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,14 +26,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\BarberAkji.Models.csproj": {
-                "projectPath": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\BarberAkji.Models.csproj"
+              "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\BarberAkji.Models.csproj": {
+                "projectPath": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\BarberAkji.Models.csproj"
               }
             }
           }
@@ -94,20 +94,20 @@
         }
       }
     },
-    "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\BarberAkji.Models.csproj": {
+    "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\BarberAkji.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\BarberAkji.Models.csproj",
+        "projectUniqueName": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\BarberAkji.Models.csproj",
         "projectName": "BarberAkji.Models",
-        "projectPath": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\BarberAkji.Models.csproj",
-        "packagesPath": "C:\\Users\\choaw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\obj\\",
+        "projectPath": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\BarberAkji.Models.csproj",
+        "packagesPath": "C:\\Users\\Ali Barakji\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\choaw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ali Barakji\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -116,7 +116,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {

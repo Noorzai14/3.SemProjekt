@@ -1,160 +1,156 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\",
+  "WorkspaceRootPath": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|c:\\users\\choaw\\onedrive\\desktop\\3.semester project\\programmeringogtechprojekt\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.web\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|solutionrelative:barberakji.web\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|c:\\users\\choaw\\onedrive\\desktop\\3.semester project\\programmeringogtechprojekt\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.web\\views\\home\\createbooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|solutionrelative:barberakji.web\\views\\home\\createbooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|c:\\users\\choaw\\onedrive\\desktop\\3.semester project\\programmeringogtechprojekt\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.web\\models\\bookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|solutionrelative:barberakji.web\\models\\bookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9A78F57-BF16-439F-BA58-6A8E7388EB87}|BarberAkji.Models\\BarberAkji.Models.csproj|c:\\users\\choaw\\onedrive\\desktop\\3.semester project\\programmeringogtechprojekt\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.models\\viewmodels\\bookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9A78F57-BF16-439F-BA58-6A8E7388EB87}|BarberAkji.Models\\BarberAkji.Models.csproj|solutionrelative:barberakji.models\\viewmodels\\bookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|c:\\users\\choaw\\onedrive\\desktop\\3.semester project\\programmeringogtechprojekt\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|solutionrelative:barberakji.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|c:\\users\\choaw\\onedrive\\desktop\\3.semester project\\programmeringogtechprojekt\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.web\\views\\booking\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|solutionrelative:barberakji.web\\views\\booking\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|c:\\users\\choaw\\onedrive\\desktop\\3.semester project\\programmeringogtechprojekt\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|solutionrelative:barberakji.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|c:\\users\\choaw\\onedrive\\desktop\\3.semester project\\programmeringogtechprojekt\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|solutionrelative:barberakji.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|c:\\users\\choaw\\onedrive\\desktop\\3.semester project\\programmeringogtechprojekt\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|solutionrelative:barberakji.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|c:\\users\\choaw\\onedrive\\desktop\\3.semester project\\programmeringogtechprojekt\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|solutionrelative:barberakji.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|c:\\users\\choaw\\onedrive\\desktop\\3.semester project\\programmeringogtechprojekt\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.api\\data\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|solutionrelative:barberakji.api\\data\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|c:\\users\\choaw\\onedrive\\desktop\\3.semester project\\programmeringogtechprojekt\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.api\\data\\sqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|solutionrelative:barberakji.api\\data\\sqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|c:\\users\\choaw\\onedrive\\desktop\\3.semester project\\programmeringogtechprojekt\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.api\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|solutionrelative:barberakji.api\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|c:\\users\\choaw\\onedrive\\desktop\\3.semester project\\programmeringogtechprojekt\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|solutionrelative:barberakji.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|c:\\users\\choaw\\onedrive\\desktop\\3.semester project\\programmeringogtechprojekt\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|solutionrelative:barberakji.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|c:\\users\\choaw\\onedrive\\desktop\\3.semester project\\programmeringogtechprojekt\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.web\\views\\booking\\calendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|solutionrelative:barberakji.web\\views\\booking\\calendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|c:\\users\\choaw\\onedrive\\desktop\\3.semester project\\programmeringogtechprojekt\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.web\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|solutionrelative:barberakji.web\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|c:\\users\\choaw\\onedrive\\desktop\\3.semester project\\programmeringogtechprojekt\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|c:\\users\\ali barakji\\downloads\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|solutionrelative:barberakji.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|c:\\users\\choaw\\onedrive\\desktop\\3.semester project\\programmeringogtechprojekt\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.api\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|c:\\users\\ali barakji\\downloads\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.web\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|solutionrelative:barberakji.web\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|c:\\users\\ali barakji\\downloads\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.web\\models\\bookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|solutionrelative:barberakji.web\\models\\bookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|c:\\users\\ali barakji\\downloads\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.api\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|solutionrelative:barberakji.api\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|c:\\users\\ali barakji\\downloads\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.api\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|solutionrelative:barberakji.api\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|c:\\users\\choaw\\onedrive\\desktop\\3.semester project\\programmeringogtechprojekt\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|solutionrelative:barberakji.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|c:\\users\\choaw\\onedrive\\desktop\\3.semester project\\programmeringogtechprojekt\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.api\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|solutionrelative:barberakji.api\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|c:\\users\\choaw\\onedrive\\desktop\\3.semester project\\programmeringogtechprojekt\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|solutionrelative:barberakji.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|c:\\users\\choaw\\onedrive\\desktop\\3.semester project\\programmeringogtechprojekt\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.api\\barberakji.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|solutionrelative:barberakji.api\\barberakji.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9A78F57-BF16-439F-BA58-6A8E7388EB87}|BarberAkji.Models\\BarberAkji.Models.csproj|c:\\users\\choaw\\onedrive\\desktop\\3.semester project\\programmeringogtechprojekt\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.models\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9A78F57-BF16-439F-BA58-6A8E7388EB87}|BarberAkji.Models\\BarberAkji.Models.csproj|c:\\users\\ali barakji\\downloads\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.models\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9A78F57-BF16-439F-BA58-6A8E7388EB87}|BarberAkji.Models\\BarberAkji.Models.csproj|solutionrelative:barberakji.models\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|c:\\users\\choaw\\onedrive\\desktop\\3.semester project\\programmeringogtechprojekt\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|c:\\users\\ali barakji\\downloads\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|solutionrelative:barberakji.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|c:\\users\\choaw\\onedrive\\desktop\\3.semester project\\programmeringogtechprojekt\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|solutionrelative:barberakji.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|c:\\users\\ali barakji\\downloads\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|solutionrelative:barberakji.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|c:\\users\\choaw\\onedrive\\desktop\\3.semester project\\programmeringogtechprojekt\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.web\\barberakji.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|c:\\users\\ali barakji\\downloads\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|solutionrelative:barberakji.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|c:\\users\\ali barakji\\downloads\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.web\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|solutionrelative:barberakji.web\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|c:\\users\\ali barakji\\downloads\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.web\\views\\booking\\calendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|solutionrelative:barberakji.web\\views\\booking\\calendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|c:\\users\\ali barakji\\downloads\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|solutionrelative:barberakji.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|c:\\users\\ali barakji\\downloads\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|solutionrelative:barberakji.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|c:\\users\\ali barakji\\downloads\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|solutionrelative:barberakji.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|c:\\users\\ali barakji\\downloads\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|solutionrelative:barberakji.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|c:\\users\\ali barakji\\downloads\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.web\\views\\booking\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|solutionrelative:barberakji.web\\views\\booking\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|c:\\users\\ali barakji\\downloads\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.api\\barberakji.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|solutionrelative:barberakji.api\\barberakji.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|c:\\users\\ali barakji\\downloads\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.web\\barberakji.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|solutionrelative:barberakji.web\\barberakji.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9A78F57-BF16-439F-BA58-6A8E7388EB87}|BarberAkji.Models\\BarberAkji.Models.csproj|c:\\users\\choaw\\onedrive\\desktop\\3.semester project\\programmeringogtechprojekt\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9A78F57-BF16-439F-BA58-6A8E7388EB87}|BarberAkji.Models\\BarberAkji.Models.csproj|solutionrelative:barberakji.models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|c:\\users\\ali barakji\\downloads\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.web\\views\\home\\createbooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|solutionrelative:barberakji.web\\views\\home\\createbooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9A78F57-BF16-439F-BA58-6A8E7388EB87}|BarberAkji.Models\\BarberAkji.Models.csproj|c:\\users\\choaw\\onedrive\\desktop\\3.semester project\\programmeringogtechprojekt\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.models\\dtos\\editbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9A78F57-BF16-439F-BA58-6A8E7388EB87}|BarberAkji.Models\\BarberAkji.Models.csproj|c:\\users\\ali barakji\\downloads\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.models\\viewmodels\\bookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A78F57-BF16-439F-BA58-6A8E7388EB87}|BarberAkji.Models\\BarberAkji.Models.csproj|solutionrelative:barberakji.models\\viewmodels\\bookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|c:\\users\\ali barakji\\downloads\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|solutionrelative:barberakji.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|c:\\users\\ali barakji\\downloads\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|solutionrelative:barberakji.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|c:\\users\\ali barakji\\downloads\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|solutionrelative:barberakji.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|c:\\users\\ali barakji\\downloads\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.api\\data\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|solutionrelative:barberakji.api\\data\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|c:\\users\\ali barakji\\downloads\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.api\\data\\sqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|solutionrelative:barberakji.api\\data\\sqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|c:\\users\\ali barakji\\downloads\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.api\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|solutionrelative:barberakji.api\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|c:\\users\\ali barakji\\downloads\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|solutionrelative:barberakji.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|c:\\users\\ali barakji\\downloads\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|solutionrelative:barberakji.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A78F57-BF16-439F-BA58-6A8E7388EB87}|BarberAkji.Models\\BarberAkji.Models.csproj|c:\\users\\ali barakji\\downloads\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.models\\dtos\\editbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9A78F57-BF16-439F-BA58-6A8E7388EB87}|BarberAkji.Models\\BarberAkji.Models.csproj|solutionrelative:barberakji.models\\dtos\\editbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9A78F57-BF16-439F-BA58-6A8E7388EB87}|BarberAkji.Models\\BarberAkji.Models.csproj|c:\\users\\choaw\\onedrive\\desktop\\3.semester project\\programmeringogtechprojekt\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.models\\dtos\\createbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9A78F57-BF16-439F-BA58-6A8E7388EB87}|BarberAkji.Models\\BarberAkji.Models.csproj|c:\\users\\ali barakji\\downloads\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.models\\dtos\\createbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9A78F57-BF16-439F-BA58-6A8E7388EB87}|BarberAkji.Models\\BarberAkji.Models.csproj|solutionrelative:barberakji.models\\dtos\\createbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9A78F57-BF16-439F-BA58-6A8E7388EB87}|BarberAkji.Models\\BarberAkji.Models.csproj|c:\\users\\choaw\\onedrive\\desktop\\3.semester project\\programmeringogtechprojekt\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.models\\barberakji.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{D9A78F57-BF16-439F-BA58-6A8E7388EB87}|BarberAkji.Models\\BarberAkji.Models.csproj|c:\\users\\ali barakji\\downloads\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.models\\barberakji.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D9A78F57-BF16-439F-BA58-6A8E7388EB87}|BarberAkji.Models\\BarberAkji.Models.csproj|solutionrelative:barberakji.models\\barberakji.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|c:\\users\\choaw\\onedrive\\desktop\\3.semester project\\programmeringogtechprojekt\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|c:\\users\\ali barakji\\downloads\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|solutionrelative:barberakji.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8328077-823F-469C-89D8-B92A24CB9512}|BarberAkji.Desktop\\BarberAkji.Desktop.csproj|c:\\users\\choaw\\onedrive\\desktop\\3.semester project\\programmeringogtechprojekt\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.desktop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E8328077-823F-469C-89D8-B92A24CB9512}|BarberAkji.Desktop\\BarberAkji.Desktop.csproj|c:\\users\\ali barakji\\downloads\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.desktop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8328077-823F-469C-89D8-B92A24CB9512}|BarberAkji.Desktop\\BarberAkji.Desktop.csproj|solutionrelative:barberakji.desktop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9A78F57-BF16-439F-BA58-6A8E7388EB87}|BarberAkji.Models\\BarberAkji.Models.csproj|c:\\users\\choaw\\onedrive\\desktop\\3.semester project\\programmeringogtechprojekt\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.models\\entities\\servicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9A78F57-BF16-439F-BA58-6A8E7388EB87}|BarberAkji.Models\\BarberAkji.Models.csproj|c:\\users\\ali barakji\\downloads\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.models\\entities\\servicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9A78F57-BF16-439F-BA58-6A8E7388EB87}|BarberAkji.Models\\BarberAkji.Models.csproj|solutionrelative:barberakji.models\\entities\\servicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9A78F57-BF16-439F-BA58-6A8E7388EB87}|BarberAkji.Models\\BarberAkji.Models.csproj|c:\\users\\choaw\\onedrive\\desktop\\3.semester project\\programmeringogtechprojekt\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.models\\entities\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9A78F57-BF16-439F-BA58-6A8E7388EB87}|BarberAkji.Models\\BarberAkji.Models.csproj|solutionrelative:barberakji.models\\entities\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\VisualStudios - NotOneDrive\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8328077-823F-469C-89D8-B92A24CB9512}|BarberAkji.Desktop\\BarberAkji.Desktop.csproj|c:\\users\\choaw\\onedrive\\desktop\\3.semester project\\programmeringogtechprojekt\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.desktop\\barberakji.desktop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{E8328077-823F-469C-89D8-B92A24CB9512}|BarberAkji.Desktop\\BarberAkji.Desktop.csproj|c:\\users\\ali barakji\\downloads\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.desktop\\barberakji.desktop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E8328077-823F-469C-89D8-B92A24CB9512}|BarberAkji.Desktop\\BarberAkji.Desktop.csproj|solutionrelative:barberakji.desktop\\barberakji.desktop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|c:\\users\\choaw\\onedrive\\desktop\\3.semester project\\programmeringogtechprojekt\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.web\\views\\home\\calendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|c:\\users\\ali barakji\\downloads\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.web\\views\\home\\calendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|solutionrelative:barberakji.web\\views\\home\\calendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8328077-823F-469C-89D8-B92A24CB9512}|BarberAkji.Desktop\\BarberAkji.Desktop.csproj|C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\barberakji.desktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E8328077-823F-469C-89D8-B92A24CB9512}|BarberAkji.Desktop\\BarberAkji.Desktop.csproj|C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\barberakji.desktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E8328077-823F-469C-89D8-B92A24CB9512}|BarberAkji.Desktop\\BarberAkji.Desktop.csproj|solutionrelative:barberakji.desktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -172,36 +168,250 @@
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\appsettings.json",
-              "RelativeDocumentMoniker": "BarberAkji.Web\\appsettings.json",
-              "ToolTip": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\appsettings.json",
-              "RelativeToolTip": "BarberAkji.Web\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-14T04:50:57.394Z"
+              "DocumentIndex": 3,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\Repositories\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "BarberAkji.API\\Repositories\\BookingRepository.cs",
+              "ToolTip": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\Repositories\\BookingRepository.cs",
+              "RelativeToolTip": "BarberAkji.API\\Repositories\\BookingRepository.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAIAwwEMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T23:05:44.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\Entities\\Booking.cs",
+              "RelativeDocumentMoniker": "BarberAkji.Models\\Entities\\Booking.cs",
+              "ToolTip": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\Entities\\Booking.cs",
+              "RelativeToolTip": "BarberAkji.Models\\Entities\\Booking.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T18:29:32.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BarberAkji.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "BarberAkji.Web\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T09:25:52.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "BarberAkji.Web\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "BarberAkji.Web\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwE4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:48:02.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Models\\BookingViewModel.cs",
+              "RelativeDocumentMoniker": "BarberAkji.Web\\Models\\BookingViewModel.cs",
+              "ToolTip": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Models\\BookingViewModel.cs",
+              "RelativeToolTip": "BarberAkji.Web\\Models\\BookingViewModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:34:18.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "BarberAkji.API\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "BarberAkji.API\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAawB4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:26:34.7Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Program.cs",
-              "RelativeDocumentMoniker": "BarberAkji.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Program.cs",
-              "RelativeToolTip": "BarberAkji.Web\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BarberAkji.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BarberAkji.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAtwDQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T09:20:54.297Z"
+              "WhenOpened": "2025-05-12T09:24:54.342Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BarberAkji.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BarberAkji.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-17T19:08:42.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Calendar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Views\\Booking\\Calendar.cshtml",
+              "RelativeDocumentMoniker": "BarberAkji.Web\\Views\\Booking\\Calendar.cshtml",
+              "ToolTip": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Views\\Booking\\Calendar.cshtml",
+              "RelativeToolTip": "BarberAkji.Web\\Views\\Booking\\Calendar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T05:06:31.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Views\\Booking\\Index.cshtml",
+              "RelativeDocumentMoniker": "BarberAkji.Web\\Views\\Booking\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Views\\Booking\\Index.cshtml",
+              "RelativeToolTip": "BarberAkji.Web\\Views\\Booking\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T11:51:14.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BarberAkji.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BarberAkji.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T02:42:34.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\appsettings.json",
+              "RelativeDocumentMoniker": "BarberAkji.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\appsettings.json",
+              "RelativeToolTip": "BarberAkji.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-12T15:59:57.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "BarberAkji.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\appsettings.json",
+              "RelativeToolTip": "BarberAkji.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T04:50:57.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BarberAkji.Web\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BarberAkji.Web\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:19:53.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\Program.cs",
+              "RelativeDocumentMoniker": "BarberAkji.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\Program.cs",
+              "RelativeToolTip": "BarberAkji.API\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:18:14.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Views\\Booking\\Create.cshtml",
+              "RelativeDocumentMoniker": "BarberAkji.Web\\Views\\Booking\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Views\\Booking\\Create.cshtml",
+              "RelativeToolTip": "BarberAkji.Web\\Views\\Booking\\Create.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwCUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T04:44:39.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BarberAkji.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\BarberAkji.API.csproj",
+              "RelativeDocumentMoniker": "BarberAkji.API\\BarberAkji.API.csproj",
+              "ToolTip": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\BarberAkji.API.csproj",
+              "RelativeToolTip": "BarberAkji.API\\BarberAkji.API.csproj",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-12T09:27:22.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BarberAkji.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\BarberAkji.Web.csproj",
+              "RelativeDocumentMoniker": "BarberAkji.Web\\BarberAkji.Web.csproj",
+              "ToolTip": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\BarberAkji.Web.csproj",
+              "RelativeToolTip": "BarberAkji.Web\\BarberAkji.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-12T09:15:56.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "BarberAkji.Web\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Properties\\launchSettings.json",
               "RelativeToolTip": "BarberAkji.Web\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -209,36 +419,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BookingController.cs",
-              "DocumentMoniker": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Controllers\\BookingController.cs",
-              "RelativeDocumentMoniker": "BarberAkji.Web\\Controllers\\BookingController.cs",
-              "ToolTip": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Controllers\\BookingController.cs",
-              "RelativeToolTip": "BarberAkji.Web\\Controllers\\BookingController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Program.cs",
+              "RelativeDocumentMoniker": "BarberAkji.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Program.cs",
+              "RelativeToolTip": "BarberAkji.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T11:48:02.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T09:20:54.297Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Views\\Booking\\Create.cshtml",
-              "RelativeDocumentMoniker": "BarberAkji.Web\\Views\\Booking\\Create.cshtml",
-              "ToolTip": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Views\\Booking\\Create.cshtml",
-              "RelativeToolTip": "BarberAkji.Web\\Views\\Booking\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T04:44:39.404Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 19,
               "Title": "BookingViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\ViewModels\\BookingViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\ViewModels\\BookingViewModel.cs",
               "RelativeDocumentMoniker": "BarberAkji.Models\\ViewModels\\BookingViewModel.cs",
-              "ToolTip": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\ViewModels\\BookingViewModel.cs",
+              "ToolTip": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\ViewModels\\BookingViewModel.cs",
               "RelativeToolTip": "BarberAkji.Models\\ViewModels\\BookingViewModel.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -246,49 +443,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BookingViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Models\\BookingViewModel.cs",
-              "RelativeDocumentMoniker": "BarberAkji.Web\\Models\\BookingViewModel.cs",
-              "ToolTip": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Models\\BookingViewModel.cs",
-              "RelativeToolTip": "BarberAkji.Web\\Models\\BookingViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T11:34:18.785Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 18,
               "Title": "CreateBooking.cshtml",
-              "DocumentMoniker": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Views\\Home\\CreateBooking.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Views\\Home\\CreateBooking.cshtml",
               "RelativeDocumentMoniker": "BarberAkji.Web\\Views\\Home\\CreateBooking.cshtml",
-              "ToolTip": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Views\\Home\\CreateBooking.cshtml",
+              "ToolTip": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Views\\Home\\CreateBooking.cshtml",
               "RelativeToolTip": "BarberAkji.Web\\Views\\Home\\CreateBooking.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-12T09:23:50.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T09:23:50.288Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "BarberAkji.Web\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "BarberAkji.Web\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T10:19:53.095Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 22,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "BarberAkji.API\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\Properties\\launchSettings.json",
               "RelativeToolTip": "BarberAkji.API\\Properties\\launchSettings.json",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -296,11 +467,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 23,
               "Title": "DapperContext.cs",
-              "DocumentMoniker": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\Data\\DapperContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\Data\\DapperContext.cs",
               "RelativeDocumentMoniker": "BarberAkji.API\\Data\\DapperContext.cs",
-              "ToolTip": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\Data\\DapperContext.cs",
+              "ToolTip": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\Data\\DapperContext.cs",
               "RelativeToolTip": "BarberAkji.API\\Data\\DapperContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -308,11 +479,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 24,
               "Title": "SqlConnectionFactory.cs",
-              "DocumentMoniker": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\Data\\SqlConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\Data\\SqlConnectionFactory.cs",
               "RelativeDocumentMoniker": "BarberAkji.API\\Data\\SqlConnectionFactory.cs",
-              "ToolTip": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\Data\\SqlConnectionFactory.cs",
+              "ToolTip": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\Data\\SqlConnectionFactory.cs",
               "RelativeToolTip": "BarberAkji.API\\Data\\SqlConnectionFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -320,95 +491,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BookingRepository.cs",
-              "DocumentMoniker": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\Repositories\\BookingRepository.cs",
-              "RelativeDocumentMoniker": "BarberAkji.API\\Repositories\\BookingRepository.cs",
-              "ToolTip": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\Repositories\\BookingRepository.cs",
-              "RelativeToolTip": "BarberAkji.API\\Repositories\\BookingRepository.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAuwFMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T23:05:44.229Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\Program.cs",
-              "RelativeDocumentMoniker": "BarberAkji.API\\Program.cs",
-              "ToolTip": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\Program.cs",
-              "RelativeToolTip": "BarberAkji.API\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAwCkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T09:18:14.218Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\appsettings.json",
-              "RelativeDocumentMoniker": "BarberAkji.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\appsettings.json",
-              "RelativeToolTip": "BarberAkji.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-12T15:59:57.439Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Views\\Booking\\Index.cshtml",
-              "RelativeDocumentMoniker": "BarberAkji.Web\\Views\\Booking\\Index.cshtml",
-              "ToolTip": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Views\\Booking\\Index.cshtml",
-              "RelativeToolTip": "BarberAkji.Web\\Views\\Booking\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-12T11:51:14.542Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "BarberAkji.Web\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "BarberAkji.Web\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-12T09:25:52.479Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "BookingController.cs",
-              "DocumentMoniker": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\Controllers\\BookingController.cs",
-              "RelativeDocumentMoniker": "BarberAkji.API\\Controllers\\BookingController.cs",
-              "ToolTip": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\Controllers\\BookingController.cs",
-              "RelativeToolTip": "BarberAkji.API\\Controllers\\BookingController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAowCwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T11:26:34.7Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Calendar.cshtml",
-              "DocumentMoniker": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Views\\Booking\\Calendar.cshtml",
-              "RelativeDocumentMoniker": "BarberAkji.Web\\Views\\Booking\\Calendar.cshtml",
-              "ToolTip": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Views\\Booking\\Calendar.cshtml",
-              "RelativeToolTip": "BarberAkji.Web\\Views\\Booking\\Calendar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T05:06:31.052Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "ServiceController.cs",
-              "DocumentMoniker": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\Controllers\\ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\Controllers\\ServiceController.cs",
               "RelativeDocumentMoniker": "BarberAkji.API\\Controllers\\ServiceController.cs",
-              "ToolTip": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\Controllers\\ServiceController.cs",
               "RelativeToolTip": "BarberAkji.API\\Controllers\\ServiceController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -416,11 +503,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\Controllers\\EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "BarberAkji.API\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "BarberAkji.API\\Controllers\\EmployeeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -428,71 +515,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "BarberAkji.Web\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "BarberAkji.Web\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-30T02:42:34.134Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "BarberAkji.API.csproj",
-              "DocumentMoniker": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\BarberAkji.API.csproj",
-              "RelativeDocumentMoniker": "BarberAkji.API\\BarberAkji.API.csproj",
-              "ToolTip": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\BarberAkji.API.csproj",
-              "RelativeToolTip": "BarberAkji.API\\BarberAkji.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-12T09:27:22.648Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Booking.cs",
-              "DocumentMoniker": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\Entities\\Booking.cs",
-              "RelativeDocumentMoniker": "BarberAkji.Models\\Entities\\Booking.cs",
-              "ToolTip": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\Entities\\Booking.cs",
-              "RelativeToolTip": "BarberAkji.Models\\Entities\\Booking.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T09:14:46.739Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\Entities\\Employee.cs",
-              "RelativeDocumentMoniker": "BarberAkji.Models\\Entities\\Employee.cs",
-              "ToolTip": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\Entities\\Employee.cs",
-              "RelativeToolTip": "BarberAkji.Models\\Entities\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T08:05:33.106Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "BarberAkji.Web\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "BarberAkji.Web\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAkwEwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T09:24:54.342Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
               "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Views\\Shared\\Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "BarberAkji.Web\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Views\\Shared\\Error.cshtml",
               "RelativeToolTip": "BarberAkji.Web\\Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -502,9 +529,9 @@
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "EditBookingDto.cs",
-              "DocumentMoniker": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\DTOs\\EditBookingDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\DTOs\\EditBookingDto.cs",
               "RelativeDocumentMoniker": "BarberAkji.Models\\DTOs\\EditBookingDto.cs",
-              "ToolTip": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\DTOs\\EditBookingDto.cs",
+              "ToolTip": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\DTOs\\EditBookingDto.cs",
               "RelativeToolTip": "BarberAkji.Models\\DTOs\\EditBookingDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -514,21 +541,22 @@
               "$type": "Document",
               "DocumentIndex": 30,
               "Title": "BarberAkji.Models.csproj",
-              "DocumentMoniker": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\BarberAkji.Models.csproj",
+              "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\BarberAkji.Models.csproj",
               "RelativeDocumentMoniker": "BarberAkji.Models\\BarberAkji.Models.csproj",
-              "ToolTip": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\BarberAkji.Models.csproj",
+              "ToolTip": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\BarberAkji.Models.csproj",
               "RelativeToolTip": "BarberAkji.Models\\BarberAkji.Models.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-13T08:05:20.5Z"
+              "WhenOpened": "2025-05-13T08:05:20.5Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
               "Title": "CreateBookingDto.cs",
-              "DocumentMoniker": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\DTOs\\CreateBookingDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\DTOs\\CreateBookingDto.cs",
               "RelativeDocumentMoniker": "BarberAkji.Models\\DTOs\\CreateBookingDto.cs",
-              "ToolTip": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\DTOs\\CreateBookingDto.cs",
+              "ToolTip": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\DTOs\\CreateBookingDto.cs",
               "RelativeToolTip": "BarberAkji.Models\\DTOs\\CreateBookingDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -536,23 +564,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "BarberAkji.Web.csproj",
-              "DocumentMoniker": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\BarberAkji.Web.csproj",
-              "RelativeDocumentMoniker": "BarberAkji.Web\\BarberAkji.Web.csproj",
-              "ToolTip": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\BarberAkji.Web.csproj",
-              "RelativeToolTip": "BarberAkji.Web\\BarberAkji.Web.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-12T09:15:56.003Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 33,
               "Title": "ServiceType.cs",
-              "DocumentMoniker": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\Entities\\ServiceType.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\Entities\\ServiceType.cs",
               "RelativeDocumentMoniker": "BarberAkji.Models\\Entities\\ServiceType.cs",
-              "ToolTip": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\Entities\\ServiceType.cs",
+              "ToolTip": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\Entities\\ServiceType.cs",
               "RelativeToolTip": "BarberAkji.Models\\Entities\\ServiceType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -562,9 +578,9 @@
               "$type": "Document",
               "DocumentIndex": 32,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Desktop\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Desktop\\Program.cs",
               "RelativeDocumentMoniker": "BarberAkji.Desktop\\Program.cs",
-              "ToolTip": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Desktop\\Program.cs",
+              "ToolTip": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Desktop\\Program.cs",
               "RelativeToolTip": "BarberAkji.Desktop\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -574,9 +590,9 @@
               "$type": "Document",
               "DocumentIndex": 31,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "BarberAkji.API\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\appsettings.Development.json",
               "RelativeToolTip": "BarberAkji.API\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -584,35 +600,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Services.cs",
-              "DocumentMoniker": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\Entities\\Services.cs",
-              "RelativeDocumentMoniker": "BarberAkji.Models\\Entities\\Services.cs",
-              "ToolTip": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\Entities\\Services.cs",
-              "RelativeToolTip": "BarberAkji.Models\\Entities\\Services.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T08:05:55.657Z"
+              "DocumentIndex": 35,
+              "Title": "BarberAkji.Desktop.csproj",
+              "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Desktop\\BarberAkji.Desktop.csproj",
+              "RelativeDocumentMoniker": "BarberAkji.Desktop\\BarberAkji.Desktop.csproj",
+              "ToolTip": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Desktop\\BarberAkji.Desktop.csproj",
+              "RelativeToolTip": "BarberAkji.Desktop\\BarberAkji.Desktop.csproj",
+              "ViewState": "AgIAAAEAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-12T09:15:47.287Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 36,
-              "Title": "BarberAkji.Desktop.csproj",
-              "DocumentMoniker": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Desktop\\BarberAkji.Desktop.csproj",
-              "RelativeDocumentMoniker": "BarberAkji.Desktop\\BarberAkji.Desktop.csproj",
-              "ToolTip": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Desktop\\BarberAkji.Desktop.csproj",
-              "RelativeToolTip": "BarberAkji.Desktop\\BarberAkji.Desktop.csproj",
-              "ViewState": "AgIAAAEAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-12T09:15:47.287Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
               "Title": "Calendar.cshtml",
-              "DocumentMoniker": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Views\\Home\\Calendar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Views\\Home\\Calendar.cshtml",
               "RelativeDocumentMoniker": "BarberAkji.Web\\Views\\Home\\Calendar.cshtml",
-              "ToolTip": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Views\\Home\\Calendar.cshtml",
+              "ToolTip": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Views\\Home\\Calendar.cshtml",
               "RelativeToolTip": "BarberAkji.Web\\Views\\Home\\Calendar.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -620,27 +625,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 34,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\VisualStudios - NotOneDrive\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\VisualStudios - NotOneDrive\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\VisualStudios - NotOneDrive\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\AppDbContext.cs",
               "ToolTip": "C:\\VisualStudios - NotOneDrive\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\AppDbContext.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\VisualStudios - NotOneDrive\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\AppDbContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\VisualStudios - NotOneDrive\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\AppDbContext.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T08:09:46.563Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 37,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Desktop\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Desktop\\Form1.cs",
               "RelativeDocumentMoniker": "BarberAkji.Desktop\\Form1.cs",
               "ToolTip": "C:\\Users\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Desktop\\Form1.cs [Design]",
-              "RelativeToolTip": "BarberAkji.Desktop\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\choaw\\OneDrive\\Desktop\\3.Semester Project\\ProgrammeringOgTechProjekt\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Desktop\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T09:09:12.733Z"
             }
