@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BarberAkji.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7785d19d8a83523430b0c576a82864f740cdcb3b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77136fcd2645253a92724b9adb496a52836c51e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("BarberAkji.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BarberAkji.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
