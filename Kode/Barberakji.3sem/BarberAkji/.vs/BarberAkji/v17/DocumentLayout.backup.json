@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|c:\\users\\ali barakji\\downloads\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.api\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|solutionrelative:barberakji.api\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|c:\\users\\ali barakji\\downloads\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.web\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A47BCCBE-0852-477F-8E8E-0FA9245A54C9}|BarberAkji.Web\\BarberAkji.Web.csproj|solutionrelative:barberakji.web\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|c:\\users\\ali barakji\\downloads\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.api\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|solutionrelative:barberakji.api\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|c:\\users\\ali barakji\\downloads\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.api\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A509EFEB-0C25-4B32-A084-96AB942076CC}|BarberAkji.API\\BarberAkji.API.csproj|solutionrelative:barberakji.api\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9A78F57-BF16-439F-BA58-6A8E7388EB87}|BarberAkji.Models\\BarberAkji.Models.csproj|c:\\users\\ali barakji\\downloads\\3.semprojekt\\kode\\barberakji.3sem\\barberakji\\barberakji.models\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -161,7 +161,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -173,19 +173,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BookingRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\Repositories\\BookingRepository.cs",
-              "RelativeDocumentMoniker": "BarberAkji.API\\Repositories\\BookingRepository.cs",
-              "ToolTip": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\Repositories\\BookingRepository.cs",
-              "RelativeToolTip": "BarberAkji.API\\Repositories\\BookingRepository.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAIAwwEMAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T23:05:44.229Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Booking.cs",
               "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Models\\Entities\\Booking.cs",
@@ -194,12 +181,11 @@
               "RelativeToolTip": "BarberAkji.Models\\Entities\\Booking.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T18:29:32.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T18:29:32.133Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "BarberAkji.Web\\Views\\Home\\Index.cshtml",
@@ -207,25 +193,23 @@
               "RelativeToolTip": "BarberAkji.Web\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-12T09:25:52.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T09:25:52.479Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BookingController.cs",
               "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Controllers\\BookingController.cs",
               "RelativeDocumentMoniker": "BarberAkji.Web\\Controllers\\BookingController.cs",
               "ToolTip": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Controllers\\BookingController.cs",
               "RelativeToolTip": "BarberAkji.Web\\Controllers\\BookingController.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAUwEcAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T11:48:02.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T11:48:02.679Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "BookingViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Models\\BookingViewModel.cs",
               "RelativeDocumentMoniker": "BarberAkji.Web\\Models\\BookingViewModel.cs",
@@ -233,12 +217,36 @@
               "RelativeToolTip": "BarberAkji.Web\\Models\\BookingViewModel.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T11:34:18.785Z",
+              "WhenOpened": "2025-05-12T11:34:18.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "BarberAkji.API\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "BarberAkji.API\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAawCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:26:34.7Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\Repositories\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "BarberAkji.API\\Repositories\\BookingRepository.cs",
+              "ToolTip": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\Repositories\\BookingRepository.cs",
+              "RelativeToolTip": "BarberAkji.API\\Repositories\\BookingRepository.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAIAwwEMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T23:05:44.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.Web\\Views\\Booking\\Create.cshtml",
               "RelativeDocumentMoniker": "BarberAkji.Web\\Views\\Booking\\Create.cshtml",
@@ -246,21 +254,7 @@
               "RelativeToolTip": "BarberAkji.Web\\Views\\Booking\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T04:44:39.404Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BookingController.cs",
-              "DocumentMoniker": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\Controllers\\BookingController.cs",
-              "RelativeDocumentMoniker": "BarberAkji.API\\Controllers\\BookingController.cs",
-              "ToolTip": "C:\\Users\\Ali Barakji\\Downloads\\3.SemProjekt\\Kode\\Barberakji.3sem\\BarberAkji\\BarberAkji.API\\Controllers\\BookingController.cs",
-              "RelativeToolTip": "BarberAkji.API\\Controllers\\BookingController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAawB4AAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T11:26:34.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T04:44:39.404Z"
             },
             {
               "$type": "Document",
@@ -272,8 +266,7 @@
               "RelativeToolTip": "BarberAkji.Web\\Controllers\\HomeController.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAtwDQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T09:24:54.342Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T09:24:54.342Z"
             },
             {
               "$type": "Document",
@@ -285,8 +278,7 @@
               "RelativeToolTip": "BarberAkji.Web\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-17T19:08:42.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T19:08:42.439Z"
             },
             {
               "$type": "Document",
@@ -298,8 +290,7 @@
               "RelativeToolTip": "BarberAkji.Web\\Views\\Booking\\Calendar.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T05:06:31.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T05:06:31.052Z"
             },
             {
               "$type": "Document",
@@ -311,8 +302,7 @@
               "RelativeToolTip": "BarberAkji.Web\\Views\\Booking\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-12T11:51:14.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T11:51:14.542Z"
             },
             {
               "$type": "Document",
@@ -324,8 +314,7 @@
               "RelativeToolTip": "BarberAkji.Web\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-30T02:42:34.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T02:42:34.134Z"
             },
             {
               "$type": "Document",
@@ -337,8 +326,7 @@
               "RelativeToolTip": "BarberAkji.API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-12T15:59:57.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T15:59:57.439Z"
             },
             {
               "$type": "Document",
@@ -350,8 +338,7 @@
               "RelativeToolTip": "BarberAkji.Web\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-14T04:50:57.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T04:50:57.394Z"
             },
             {
               "$type": "Document",
@@ -363,8 +350,7 @@
               "RelativeToolTip": "BarberAkji.Web\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T10:19:53.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T10:19:53.095Z"
             },
             {
               "$type": "Document",
@@ -376,8 +362,7 @@
               "RelativeToolTip": "BarberAkji.API\\Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T09:18:14.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T09:18:14.218Z"
             },
             {
               "$type": "Document",
@@ -389,8 +374,7 @@
               "RelativeToolTip": "BarberAkji.API\\BarberAkji.API.csproj",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-12T09:27:22.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T09:27:22.648Z"
             },
             {
               "$type": "Document",
@@ -402,8 +386,7 @@
               "RelativeToolTip": "BarberAkji.Web\\BarberAkji.Web.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-12T09:15:56.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T09:15:56.003Z"
             },
             {
               "$type": "Document",
@@ -547,8 +530,7 @@
               "RelativeToolTip": "BarberAkji.Models\\BarberAkji.Models.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-13T08:05:20.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T08:05:20.5Z"
             },
             {
               "$type": "Document",
@@ -608,8 +590,7 @@
               "RelativeToolTip": "BarberAkji.Desktop\\BarberAkji.Desktop.csproj",
               "ViewState": "AgIAAAEAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-12T09:15:47.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T09:15:47.287Z"
             },
             {
               "$type": "Document",
